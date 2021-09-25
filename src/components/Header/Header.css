@@ -1,0 +1,31 @@
+.header{
+    color: white;
+}
+.header-menu-area{
+    background-color: #23180d;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header-menu-area img{
+    margin-left: 135px;
+}
+.header-menu-area nav{
+    margin-right: 135px;    
+}
+.header-menu-area nav a{
+    padding: 12px 20px;
+    color: white;
+    text-decoration: none;
+}
+.header-menu-area nav a:hover{
+    background-color: red;
+    color: white;
+    border-radius: 5px;
+
+}
+.header-menu-area nav input{
+    height: 30px;
+    margin-left: 20px;
+}

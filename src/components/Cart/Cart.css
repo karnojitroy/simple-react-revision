@@ -1,0 +1,17 @@
+.cart-meal-display{
+    background-color:cornsilk;
+    color: black;
+    min-height: 400px;
+    width: auto;
+    border: none;
+    position: sticky;
+    margin-left: 4px;
+    text-align: center;
+    padding: 5px;
+}
+.cart-meal-display img{
+    border:10px solid white;
+}
+.meal-instructions{
+    text-align:justify;
+}

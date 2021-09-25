@@ -1,0 +1,19 @@
+.mealDb{
+    display: grid;
+    grid-template-columns: 3fr 2fr;
+    margin-top: 30px;
+}
+.container{
+    width: 80%;
+    margin: auto;
+}
+.meals{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 5px;
+}
+.second-search{
+    height: 40px;
+    width: 400px;
+    margin: 10px 0px;
+    }
